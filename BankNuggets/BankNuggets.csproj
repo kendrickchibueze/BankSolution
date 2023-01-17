@@ -7,15 +7,21 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageId>BankNuggets</PackageId>
     <Title>BankNuggets</Title>
-    <Version>$(VersionPrefix)1.0.0</Version>
+    <Version>1.0.2</Version>
     <Authors>Kendrick Chukwuka</Authors>
     <Company>Genesys</Company>
     <Product>BankNuggets</Product>
     <PackageIcon>icons8-merchant-account-16.png</PackageIcon>
     <PackageReadmeFile>nuget.md</PackageReadmeFile>
-    <PackageTags>deposit, withdraw,balance</PackageTags>
+    <PackageTags>Deposit, withdraw,Balance</PackageTags>
     <Description>This is  a  nugget package that aids withdrawal, deposit and get account balance operations</Description>
     <RepositoryType>Github</RepositoryType>
+    <PackageProjectUrl>https://github.com/kendrickchibueze/BankSolution</PackageProjectUrl>
+    <Copyright>kendrick chukwuka 2023</Copyright>
+    <RepositoryUrl>https://github.com/kendrickchibueze/BankSolution</RepositoryUrl>
+    <AssemblyVersion>1.0.0</AssemblyVersion>
+    <FileVersion>1.0.0</FileVersion>
+    <PackageOutputPath>bin\Debug\</PackageOutputPath>
   </PropertyGroup>
 
   <ItemGroup>
