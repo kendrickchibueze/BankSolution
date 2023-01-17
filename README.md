@@ -43,7 +43,7 @@ Here's an example of how the NuGet package that you created from your class libr
 Open your .NET CLI and enter
 
 ```C#
-      dotnet add package BankNuggets --version 1.0.0
+      dotnet add package BankNuggets --version 1.0.2
 ```
 
 
