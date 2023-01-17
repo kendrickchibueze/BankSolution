@@ -83,4 +83,4 @@ You can also use the class library's methods and properties without creating an 
 
 It's worth noting that if the package was created with dependencies, then those dependencies should be installed as well, and the package will not be installed if the dependencies are not met.
 
-In short, once you have created a NuGet package from your class library and published it to
+
